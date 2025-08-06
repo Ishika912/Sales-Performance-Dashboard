@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+201,Laptop,Electronics,800
+202,Smartphone,Electronics,600
+203,Tablet,Electronics,300
+204,Headphones,Accessories,150
+205,Keyboard,Accessories,50
+206,Monitor,Electronics,200
+207,Printer,Office,250
+208,Smartwatch,Electronics,180
+209,Camera,Electronics,400
+210,Speaker,Accessories,120
