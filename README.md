@@ -4,7 +4,6 @@ Analyzed 300+ sales records using SQL and visualized key trends in Power BI. Tra
 # Files Included
 - `sales_performance_project.sql` – SQL script to create and populate tables
 - `customers.csv`, `products.csv`, `sales.csv` – Clean datasets for SQL/Power BI
-- `queries.sql` – Analysis queries (monthly revenue, discount impact, etc.)
 - `Sales_Performance_Dashboard.xlsx` – Excel version of the dashboard
 - `dashboard.png` – Screenshot of final Power BI dashboard
 
